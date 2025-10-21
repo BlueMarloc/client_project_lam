@@ -1,3 +1,7 @@
 # client_life_after_me
 
-[Package](https://github.com/Mondial-IT/gh_d11_lam)
+## View the Wiki for documentation
+
+## Create and manage issues
+
+## Discuss using the Discussions
